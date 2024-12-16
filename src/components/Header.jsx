@@ -14,9 +14,6 @@ const Header = () => {
         <h2 className='text-5xl sm:text-6xl md:text-[82px] inline-block max-w-3xl  font-semibold pt-24'>Explore your Dream Home!!</h2>
        
         <div className='space-x-6 mt-16'>
-          {/* <a href="#Projects" className='border border-white px-8 py-3 rounded'>Projects</a>
-          <a href="#Contact Us" className='bg-blue-400 px-8 py-3 rounded'>Contact Us</a> */}
-
           <a href="#Projects" className='bg-blue-400 px-8 py-3 rounded'>Projects</a>
           <a href="#Contact Us" className='border border-white px-8 py-3 rounded'>Contact Us</a>
           </div>
